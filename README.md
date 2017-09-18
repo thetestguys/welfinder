@@ -1,6 +1,6 @@
 ## welfinder
 
-**W**eb **E**lement Finder is a simple Python script that retrieves all web elements in a webpage.
+**W**eb **El**ement **F**inder is a simple Python script that retrieves all web elements in a webpage.
 
 How to use:
 
