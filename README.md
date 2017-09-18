@@ -8,6 +8,6 @@ How to use:
 
 Where:
 
-_chromeDriverPath_ is the absolute path to Chrome webdriver.
-_url_ URL to be processed.
-_onlyDisplayed_ either TRUE/FALSE/ALL. TRUE means only print elements which are displayed, FALSE otherwise and ALL to display all.
+* _chromeDriverPath_ is the absolute path to Chrome webdriver.
+* _url_ URL to be processed.
+* _onlyDisplayed_ either TRUE/FALSE/ALL. TRUE means only print elements which are displayed, FALSE otherwise and ALL to display all.
